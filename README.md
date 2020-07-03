@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi! 👋
 
-<!--
-**OmarG247/OmarG247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently interning at Google as a SWE intern doing cool stuff with the Apigee platform!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Over the past few years I've had the chance to meet amazing people at Deloitte Canada and RBC doing frontend development. 
+
+I'm passionate about the intersection of **design and code**, if I'm not coding you'll likely find me on Figma 📐 or recording music 🎵! 
+
+Feel free to [contact me]('mailto:omar.garciaflores@carleton.ca') with any questions regarding Computer Science or for any career advice ✨, also check out my [favorites]('https://omarflores.dev/favorites') page for some of the thing that have helped get to where I am 🚀.
+
+Fun fact: I **love** Borzoi dogs and I've previously sung with a Grammy nominated choral ensemble 🎼.
