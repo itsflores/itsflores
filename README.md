@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-I'm currently interning at Google as a SWE intern doing cool stuff with the Apigee platform!
+I'm currently working at Google as a SWE intern doing cool stuff with the Apigee platform!
 
 ---
 
