@@ -10,4 +10,4 @@ I'm passionate about the intersection of **design and code**, if I'm not coding 
 
 Check out my [favorites](https://omarflores.dev/favorites) page for some tools that have helped me throughout my journey.
 
-Fun fact: I **love** Borzoi dogs and I've previously sung with a Grammy nominated choral ensemble 🎼.
+Fun fact: I've previously sung with a Grammy nominated choral ensemble 🎼.
