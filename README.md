@@ -11,3 +11,7 @@ I'm passionate about the intersection of **design and code**, if I'm not coding 
 Feel free to contact me with any questions regarding Computer Science or for any career advice ✨.
 
 Fun fact: I **love** Borzoi dogs and I've previously sung with a Grammy nominated choral ensemble 🎼.
+
+<p align="right">
+  <img src="./cubes1-animated.svg" width="164px" float="right">
+</p>
