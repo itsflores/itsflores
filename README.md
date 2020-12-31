@@ -1,7 +1,4 @@
 ### Hi! 👋
-
-I'm currently working at RBC as a Software Developer Intern!
-
 ---
 
 Over the past few years I've had the chance to meet amazing people at Google and Deloitte Canada doing frontend development. 
