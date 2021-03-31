@@ -10,5 +10,5 @@ Check out my [favorites](https://omarflores.dev/favorites) page for some tools t
 Fun fact: I've previously sung with a Grammy nominated choral ensemble 🎼.
 
 <p align="right">
-  <img src="./cubes1-animated.svg" width="164px" float="right">
+  <img src="./float.svg" width="264px" float="right">
 </p>
